@@ -1,2 +1,2 @@
 # python-video-slicer
-Save video frames to JPEG images using Python
+Save video frames to JPEG images using Python and OpenCV
